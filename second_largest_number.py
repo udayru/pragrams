@@ -14,4 +14,4 @@ for i in range(2):
     s =reduce(lambda i,y: i if i > y else y,x)
     x.remove(s)
     
-print(s)
+    print(s)
