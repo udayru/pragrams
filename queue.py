@@ -73,8 +73,8 @@ Emter 4 to Exit from queue
         print("your exited successfully ")
         exit()
     else:
-        print("enter invalued value")
-        continue
+        print("enter invalued value try again ")
+        False
                
  
         
