@@ -17,3 +17,4 @@ for i in days:
         break
 if flag:
     print("enter properly")
+print(sys.argv[2])

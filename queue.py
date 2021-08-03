@@ -35,7 +35,8 @@ class queue_class:
  
 
 
-
+if __name__=="__main__":
+    main()
 
 
 
